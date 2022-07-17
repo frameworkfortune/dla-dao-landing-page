@@ -1,8 +1,5 @@
-DLA DAO test for github](https://user-images.githubusercontent.com/94882709/179390842-16ba75be-d27a-46cb-ac62-c1cb50024a4c.png)
-
-
+#![Image](https://user-images.githubusercontent.com/94882709/179390842-16ba75be-d27a-46cb-ac62-c1cb50024a4c.png)
 ## Digital Land Acquisition DAO
-#![dla](https://user-images.githubusercontent.com/94882709/179389000-9ce8868b-92c5-443d-a694-d95d5d1631b1.png)
 ## Consistent Revenue Generating NFT (CRGN) Strategy
 
 
