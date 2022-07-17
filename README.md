@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Digital Land Acqusition DAO
 
 You can use the [editor on GitHub](https://github.com/frameworkfortune/dla-dao-landing-page/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
