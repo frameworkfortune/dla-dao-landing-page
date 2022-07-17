@@ -1,6 +1,9 @@
 ## Digital Land Acquisition DAO
-![dla](https://user-images.githubusercontent.com/94882709/179389000-9ce8868b-92c5-443d-a694-d95d5d1631b1.png)
+#![dla](https://user-images.githubusercontent.com/94882709/179389000-9ce8868b-92c5-443d-a694-d95d5d1631b1.png)
 ## Consistent Revenue Generating NFT (CRGN) Strategy
+
+
+
 You can use the [editor on GitHub](https://github.com/frameworkfortune/dla-dao-landing-page/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
