@@ -1,4 +1,4 @@
-#![Image](https://user-images.githubusercontent.com/94882709/179390842-16ba75be-d27a-46cb-ac62-c1cb50024a4c.png)
+![Image](https://user-images.githubusercontent.com/94882709/179390842-16ba75be-d27a-46cb-ac62-c1cb50024a4c.png)
 ## Digital Land Acquisition DAO
 ## Consistent Revenue Generating NFT (CRGN) Strategy
 
